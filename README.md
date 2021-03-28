@@ -4,7 +4,7 @@
 <br/><br/>
 <h1>Guia da Comunidade Beer & Code</h1> 
 
-<p>Bem vindo(a) ào guia da  comunidade Beer & Code!!!<br/>
+<p>Bem vindo(a) ao guia da  comunidade Beer & Code!!!<br/>
 O objetivo deste guia é garantir um bom ambiente de convivência e preservar a essência do Beer and Code, uma vez que estamos crescendo cada dia mais.</p>
 
 
@@ -29,7 +29,7 @@ Todo o trabalho é voluntário e queremos continuar assim! Afinal, somos um grup
 ### Regras Gerais
  Esta são nossas regras gerais de boa convivência e são válidas em qualquer grupo do B&C - Youtube, WhatsApp, Telegram, Discord, etc. 
 
-- <b>Seja fiel ao tema do grupo</b>: Nosso foco é tudo que está ligado a tecnologia, PHP, Laravel e suas Stacks. Você pode e deve dividir uma experiência, pedir conselhos, perguntar sobre uma dúvida, etc. sempre que o assunto seja relacionado com os quais falamos.<br/><br/>Correntes, Brincadeiras, Trolagens, Hoax/Fake news não são permitidas.<br/>Política, futebol, religião e similares deixamos para outros grupos, ok?
+- <b>Seja fiel ao tema do grupo</b>: Nosso foco é tudo que está ligado a tecnologia, PHP, Laravel e suas Stacks. Você pode e deve dividir uma experiência, pedir conselhos, perguntar sobre uma dúvida, etc. Sempre que o assunto seja relacionado com os quais falamos.<br/><br/>Correntes, Brincadeiras, Trolagens, Hoax/Fake news não são permitidas.<br/>Política, futebol, religião e similares deixamos para outros grupos, ok?
 
 - <b>Respeito e educação</b>: Não será tolerado qualquer tipo de discriminação ou linguagem ofensiva. Queremos construir uma comunidade segura para todas as pessoas crescerem e evoluírem no universo da tecnologia, qualquer uma dessas atitudes levará a exclusão imediata do autor e a denúncia as autoridades competentes.
 
@@ -120,7 +120,7 @@ oi, cm faço 1 migration pra por idade no usuário? AJUDA AÊ POVO!!!!!!!!
 
 A primeira pergunta não provem nenhuma informação para que alguém possa entender o problema e começar a ajudar. <br/>
 
-A segunda pergunta passa a sensação que a pessoa é preguiçosa, não quis pesquisar e quer tudo servido de colher! Você se sente como se a pessoa nãov aloriza o SEU tempo.<br/>
+A segunda pergunta passa a sensação que a pessoa é preguiçosa, não quis pesquisar e quer tudo servido de colher! Você se sente como se a pessoa não valoriza o SEU tempo.<br/>
 
 Agora, compare com essa maneira de perguntar:
 
